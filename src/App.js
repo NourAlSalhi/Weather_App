@@ -2,7 +2,9 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div className='text-red-400'>App</div>
+   <div className='w-full h-screen bg-gradient-to-r from-cyan-500 to-blue-500'>
+    
+   </div>
   )
 }
 
