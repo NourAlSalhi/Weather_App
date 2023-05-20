@@ -1,0 +1,22 @@
+export const HeaderTitle = [
+    {
+        id:1,
+        title:"Palestine"
+    },
+    {
+        id:2,
+        title:"Germany"
+    },
+    {
+        id:3,
+        title:"Italy"
+    },
+    {
+        id:4,
+        title:"Paris"
+    },
+    {
+        id:5,
+        title:"Japan"
+    },
+]

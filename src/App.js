@@ -1,10 +1,10 @@
-import React from 'react'
+import { Header } from "./components"
 
 const App = () => {
   return (
-   <div className='w-full h-screen bg-gradient-to-r from-cyan-500 to-blue-500'>
-    
-   </div>
+    <div className='w-full h-screen bg-gradient-to-r from-cyan-500 to-blue-500'>
+      <Header />
+    </div>
   )
 }
 
